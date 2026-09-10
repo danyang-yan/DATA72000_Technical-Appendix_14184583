@@ -4,7 +4,7 @@ This repository includes codes and outputs of research on reading experiences of
 # Repository Structure
 1. code file
 
-the research_data.ipynb includes data collection, word-frequency analysis, data filtering (initial filtering and refined filtering) and other process.
+research_data.ipynb includes data collection, word-frequency analysis, data filtering (initial filtering and refined filtering) and other processes.
 
 2. outputs file
 
@@ -12,9 +12,9 @@ code_dataset.xlsx:
 This file includes four tables: original code, code categories, sub-theme, theme.
 
 high_frequency_words.csv:
-This is the result of words-frequency analysis.
+This is the result of word-frequency analysis.
 
-four theme.pdf:
+four themes.pdf:
 This pdf shows final four themes with their sub-themes.
 
 
